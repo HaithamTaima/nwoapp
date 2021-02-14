@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nwo app</string>
+    <string name="remembar_me">remembar Me</string>
+    <string name="forget_password">Forget password</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="do_not_have_an_account">Do not Have An Account?</string>
+    <string name="Sng_Up_Here"> Sng_Up_Here?</string>
+</resources>
